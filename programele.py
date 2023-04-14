@@ -1,6 +1,6 @@
 
 
-print("\nDC Watts-Amps-Watts conversion")
+print("\nDC Watts-Amps-Watts converter")
 
 electrical_m = input(
     "\nType in conversion type: \n \nA - Watts to Amps \nW - Amps to Watts \n \nA/W? : ")
